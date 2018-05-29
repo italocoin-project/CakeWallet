@@ -44,12 +44,12 @@ final class Configurations {
         }
     }
     
-    static let preDefaultNodeUri = "node.xmrbackb.one:18081"
-    static let defaultNodeUri = "opennode.xmr-tw.org:18089"
+    static let preDefaultNodeUri = "93.91.118.9:13102"
+    static let defaultNodeUri = "58.185.155.109:13102"
     static let defaultCurreny = Currency.usd
     static var termsOfUseUrl: URL? {
         return Bundle.main.url(forResource: "Terms_of_Use", withExtension: "rtf")
     }
     
-    static let donactionAddress = "43gN49UjHNdXDgkcWHTxceHNjXBxcKsReSNThGwzHVavHeZ4SSxSCPT8EpD5cbwAWqEqFQw12rsyTJbKGbeXo43SVpPXZ2W"
+    static let donactionAddress = "ipPQjQYEQsLL7Gv43PpHDLiFLsZzoGuZtEJ8ZCW2is5TGeMNPo66bTKXAAd3m3ceXp4aweqmZnAHt9bWHALkK7xR2MVhF8QFZ."
 }
